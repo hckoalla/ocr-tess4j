@@ -4,7 +4,7 @@
 
 	<groupId>com.koalla</groupId>
 	<artifactId>ocr-tess4j</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>ocr-tess4j</name>
